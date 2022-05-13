@@ -1,37 +1,37 @@
-html {
+.html {
   font-size: 62.5%;
 }
-body {
+.body {
   font-size: 1.4em;
   line-height: 1.6;
   font-weight: 300;
   font-family: 'freight-text-pro', serif;
   background-color: white;
 }
-a {
+.a {
   font-size: 1.6rem;
   text-decoration: none;
   border-bottom: 1px solid rgba(0, 0, 0, 0);
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
   font-weight: 400;
 }
-h1 {
+.h1 {
   font-size: 3.2rem;
   color: #212121;
   line-height: 1.4;
   font-weight: 400;
 }
-h2 {
+.h2 {
   font-size: 2.2rem;
   color: #212121;
 }
-h3 {
+.h3 {
   font-size: 1.1rem;
   color: #747474;
   font-weight: 500;
@@ -39,14 +39,14 @@ h3 {
   text-transform: uppercase;
   letter-spacing: 0.5px;
 }
-p {
+.p {
   font-size: 1.6rem;
   color: #535353;
   line-height: 1.8;
   margin-bottom: 16px;
   font-family: 'freight-text-pro', serif;
 }
-h3 a {
+.h3 a {
   font-size: 1.1rem;
 }
 .mono {
