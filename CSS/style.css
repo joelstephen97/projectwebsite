@@ -21,8 +21,9 @@ nav{
     padding: 30px 100px;
 }
 .logo{
-    max-width: 60px;
-    max-height: 60px;
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 50%;
 }
 nav ul li{
     list-style: none;
@@ -102,4 +103,3 @@ nav ul li a:hover:after{
     margin-top: 25px;
     margin-bottom: 30px;
 }
-.circular--square { border-radius: 50%; }
