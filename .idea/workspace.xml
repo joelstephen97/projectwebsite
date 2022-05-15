@@ -25,21 +25,25 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de8a9ba8-b997-4427-a041-793da12820cb" name="Default Changelist" comment="master">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="de8a9ba8-b997-4427-a041-793da12820cb" name="Default Changelist" comment="master" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Joel Stephen &lt;jojostev@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="de53dd072b64487f0d2b2c6fcbf7cacf4895d455" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="ProjectId" id="297OBgeehk6xS71SEuhfiJCByeo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -223,8 +227,53 @@
       <option name="project" value="LOCAL" />
       <updated>1652647874824</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="master">
+      <created>1652648061404</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1652648061404</updated>
+    </task>
+    <task id="LOCAL-00024" summary="master">
+      <created>1652648128419</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1652648128419</updated>
+    </task>
+    <task id="LOCAL-00025" summary="master">
+      <created>1652648194849</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1652648194849</updated>
+    </task>
+    <task id="LOCAL-00026" summary="master">
+      <created>1652648229671</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1652648229671</updated>
+    </task>
+    <task id="LOCAL-00027" summary="master">
+      <created>1652648262630</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1652648262630</updated>
+    </task>
+    <task id="LOCAL-00028" summary="master">
+      <created>1652648415984</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1652648415984</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -250,6 +299,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="commit 1" />
     <MESSAGE value="master" />
     <option name="LAST_COMMIT_MESSAGE" value="master" />
@@ -267,10 +317,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="807" y="438" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1652461085020" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1652647876878">
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1652648420692">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1652647876878" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1652648420692" />
     <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1652460647823">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
