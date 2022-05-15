@@ -11,7 +11,7 @@ a{
 .hero{
     width: 100%;
     height: 100vh;
-    background: url("me.jfif");
+    background-color: black;
     background-size: cover;
 }
 nav{
@@ -29,12 +29,12 @@ nav ul li{
     padding: 10px 20px;
 }
 nav ul li a{
-    color: #1d1d24;
+    color: #ffffff;
     position: relative;
     padding: 5px 0;
 }
 nav ul li a:hover{
-    color: #892621;
+    color: #FF0000;
 }
 nav ul li a:after{
     content: "";
@@ -42,7 +42,7 @@ nav ul li a:after{
     left: 0;
     width: 0;
     height: 3px;
-    background: #892621;
+    background: #FF0000;
     transition: .3s;
     bottom: 0;
 }
@@ -60,13 +60,13 @@ nav ul li a:hover:after{
     font-weight: 500;
     transition: all .4s ease-in-out;
     background-size: 152% 100%;
-    background: #892621;
-    border: 2px solid #892621;
+    background: #FF0000;
+    border: 2px solid #FF0000;
 }
 .btn:hover{
     background: transparent;
-    border-color: #892621;
-    color: #892621;
+    border-color: #FF0000;
+    color: #FF0000;
 }
 .content{
     position: absolute;
@@ -74,18 +74,18 @@ nav ul li a:hover:after{
     left: 8%;
 }
 .content .title{
-    color: #1f1f25;
+    color: #ffffff;
     font-size: 15px;
     text-transform: uppercase;
     letter-spacing: 4px;
     display: inline-block;
     margin-bottom: 20px;
-    background: linear-gradient(120deg, #1c99fe 20.69%, #7644ff 50.19%,#892621 79.69%);
+    background: linear-gradient(120deg, #1c99fe 20.69%, #7644ff 50.19%,#FF0000 79.69%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 .content h1{
-    color: #1f1f25;
+    color: #ffffff;
     font-size: 75px;
     font-weight: 900;
     line-height: 90px;
@@ -93,7 +93,7 @@ nav ul li a:hover:after{
     width: 70%;
 }
 .content h1 span{
-    color: #892621;
+    color: #FF0000;
 }
 .content p{
     width: 55%;
