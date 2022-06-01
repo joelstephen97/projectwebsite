@@ -1,6 +1,6 @@
 # My Personal Website
 
-Trying to make a nice personal website!
+Trying to make a nice personal website to double as portfolio!
 
 AIM : Include as much CSS, HTML and frontend knowledge I can into it. 
 
