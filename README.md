@@ -1,7 +1,17 @@
 # My Personal Website
 
-Trying to make a nice looking website.
+Trying to make a nice personal website!
 
 AIM : Include as much CSS, HTML and frontend knowledge I can into it. 
 
-Deployed with Netlify from Git
+- Deployed with Netlify from Git
+
+Checklist :
+- [x] Basic structure added
+- [x] Content Added
+- [ ] Order content
+- [ ] Make website more device friendly
+- [ ] Include Javascript somehow
+- [ ] External links ?
+- [ ] Links to github projects ?
+- [ ] Find more cool effects and projects to encorporate into site.
