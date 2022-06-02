@@ -1,4 +1,4 @@
-# My Personal Website
+# My Personal-Resume Website
 
 Trying to make a nice personal website to double as portfolio!
 
@@ -15,3 +15,5 @@ Checklist :
 - [ ] External links ?
 - [ ] Links to github projects ?
 - [ ] Find more cool effects and projects to encorporate into site.
+- [ ] Some kind of table ?
+- [ ] Maybe link to my spotify ?
