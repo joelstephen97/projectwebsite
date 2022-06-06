@@ -5,6 +5,8 @@ body {
 *{
     font-family: 'Poppins', sans-serif;
     background-color: black;
+    margin-left: 25px;
+
 }
 
 a:link {
@@ -97,6 +99,30 @@ nav ul li a:hover:after{
     text-transform: inherit;
     width: 70%;
 }
+.content h3{
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 900;
+    line-height: 15px;
+    text-transform: inherit;
+    width: 70%;
+}
+
+.content h4{
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 900;
+    line-height: 15px;
+    text-transform: inherit;
+    width: 70%;
+}
+
+.content ul li{
+    color: #ffffff;
+    list-style-type: square;
+}
+
+
 .content h1 span{
     color: #FF0000;
 }
