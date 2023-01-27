@@ -9,6 +9,7 @@ AIM : Include as much CSS, HTML and frontend knowledge I can into it.
 Checklist :
 - [x] Basic structure added
 - [x] Content Added
+- [x] Footer Added (x_X Forgot to add this initially)
 - [ ] Order content
 - [ ] Make website more device friendly
 - [ ] Include Javascript somehow
