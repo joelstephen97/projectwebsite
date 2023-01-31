@@ -1,6 +1,8 @@
 # My Personal-Resume Website
 
 Trying to make a nice personal website to double as portfolio!
+https://joelstephen.com
+
 
 AIM : Include as much CSS, HTML and frontend knowledge I can into it. 
 
@@ -18,3 +20,4 @@ Checklist :
 - [ ] Find more cool effects and projects to encorporate into site.
 - [ ] Some kind of table ?
 - [ ] Maybe link to my spotify ?
+- [ ] Move to github pages soon. (why pay for the page kekw)
