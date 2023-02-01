@@ -17,7 +17,7 @@ a:hover {
 
 .hero{
     width: 100%;
-    padding: 5% 20% 5% 20%;
+    padding: 5% 17% 5% 17%;
     
 }
 
@@ -29,7 +29,8 @@ a:hover {
 
 nav{
     justify-content: space-between;
-    padding: 3% 5% 3% 5%;
+    padding: 3% 0% 3% 0%;
+    text-align: center;
 }
 
 nav ul li{
@@ -62,12 +63,12 @@ nav ul li a:hover:after{
 /* Nav Section */
 
 #about-me{
-    padding: 0 20em 0 20em;
-    text-align: right;
+    padding: 1% 15% 1% 15%;
+    text-align: left;
 }
 
 #experience{
-    padding: 0 20em 0 20em;
+    padding: 1% 15% 1% 15%;
     text-align: left;
 }
 
@@ -96,7 +97,7 @@ nav ul li a:hover:after{
 }
 .content .title{
     color: #ffffff;
-    font-size: 20px;
+    font-size: 32px;
     text-transform: uppercase;
     font-weight: 900;
     letter-spacing: 4px;
@@ -114,18 +115,22 @@ nav ul li a:hover:after{
     text-transform: inherit;
 }
 .content h3{
-    color: #ffffff;
-    font-size: 20px;
+    background: linear-gradient(120deg, #53a5e9 10.69%, #4712d8 30.19%,#FF0000 79.69%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 22px;
     font-weight: 900;
-    line-height: 15px;
+    line-height: 28px;
     text-transform: inherit;
 }
 
 .content h4{
-    color: #ffffff;
-    font-size: 16px;
+    background: linear-gradient(120deg, #fa0000 15.69%, #0039f5 30.19%,#FF0000 79.69%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 22px;
     font-weight: 900;
-    line-height: 15px;
+    line-height: 28px;
     text-transform: inherit;
 }
 
@@ -139,15 +144,160 @@ nav ul li a:hover:after{
     color: #FF0000;
 }
 .content p{
-    
     color: #ffffff;
-    
+    text-align: justify;
 }
 
 footer{
     text-align: center;
 }
 
-#logo-container{
-    background-color: rgb(231, 217, 217);
+
+
+/* On screens that are 600px or less */
+@media screen and (max-width: 1050px) {
+    body{
+        font-family: 'Poppins', sans-serif;
+        background-image: url('/poly.svg');
+        background-size: 100%;
+        margin: 5% 3.5% 2%;
+    }
+
+    .hero{
+        width: 100%;
+        padding: 2em 0.5em 2em 0.5em;
+    }
+
+    /* Nav Section */
+    #nav-bar{
+        padding: 0 0 0 0;
+        text-align: left;
+    }
+
+    nav{
+        justify-content: space-between;
+        padding: 0% 0% 0% 0%;
+    }
+
+    nav ul li{
+        list-style: none;
+        display: block;
+        display: inline-block;
+        padding: 0 0 0 2%;
+    }
+    nav ul li a{
+        color: #ffffff;
+        position: relative;
+        padding: 0 0 0 0;
+    }
+    nav ul li a:hover{
+        color: #FF0000;
+    }
+    nav ul li a:after{
+        content: "";
+        position: absolute;
+        left: 0;
+        width: 0;
+        height: 3px;
+        background: #FF0000;
+        transition: 0.7s;
+        bottom: 0;
+    }
+    nav ul li a:hover:after{
+        width: 100%;
+    }
+
+    /* Nav Section */
+
+    #about-me{
+        padding: 0 0 0 0;
+        text-align: left;
+        margin-bottom: 20px;
+    }
+    
+    #experience{
+        padding: 0 0 0 0;
+        text-align: left;
+        margin-bottom: 20px;
+    }
+    
+    .buttons{
+        color: #ffffff;
+        font-size: 16px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        padding: 16px 40px;
+        border-radius: 500px;
+        display: inline-block;
+        font-weight: 500;
+        transition: all .4s ease-in-out;
+        background-size: 152% 100%;
+        background: #FF0000;
+        border: 3px solid #000000;
+    }
+    .buttons:hover{
+        background: transparent;
+        border-color: #FF0000;
+        color: #FF0000;
+    }
+    .content{
+    
+    }
+    .content .title{
+        color: #ffffff;
+        font-size: 22px;
+        text-transform: uppercase;
+        font-weight: 900;
+        letter-spacing: 3px;
+        display: inline-block;
+        margin-bottom: 10px;
+        background: linear-gradient(120deg, #1c99fe 20.69%, #7644ff 50.19%,#FF0000 79.69%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    .content h1{
+        color: #ffffff;
+        font-size: 45px;
+        font-weight: 900;
+        line-height: 55px;
+        text-transform: inherit;
+    }
+    .content h3{
+        background: linear-gradient(120deg, #53a5e9 10.69%, #4712d8 30.19%,#FF0000 79.69%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 20px;
+        font-weight: 900;
+        line-height: 22px;
+        text-transform: inherit;
+    }
+    
+    .content h4{
+        background: linear-gradient(120deg, #fa0000 15.69%, #0039f5 30.19%,#FF0000 79.69%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 16px;
+        font-weight: 900;
+        line-height: 22px;
+        text-transform: inherit;
+    }
+    
+    .content ul li{
+        color: #ffffff;
+        list-style-type: square;
+    }
+    
+    
+    #name-highlight{
+        color: #FF0000;
+    }
+    .content p{
+        color: #ffffff;
+        text-align: left;
+    }
+    
+    footer{
+        text-align: center;
+    }
+    
 }
