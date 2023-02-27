@@ -12,8 +12,8 @@ Checklist :
 - [x] Basic structure added
 - [x] Content Added
 - [x] Footer Added (x_X Forgot to add this initially)
+- [x] Make website more device friendly
 - [ ] Order content
-- [ ] Make website more device friendly
 - [ ] Include Javascript somehow
 - [ ] External links ?
 - [ ] Links to github projects ?
