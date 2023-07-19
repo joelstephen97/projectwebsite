@@ -103,7 +103,7 @@ nav ul li a:hover:after{
     letter-spacing: 4px;
     display: inline-block;
     margin-bottom: 20px;
-    background: linear-gradient(120deg, #1c99fe 20.69%, #7644ff 50.19%,#FF0000 79.69%);
+    background: #f36259;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -115,7 +115,7 @@ nav ul li a:hover:after{
     text-transform: inherit;
 }
 .content h3{
-    background: linear-gradient(120deg, #53a5e9 10.69%, #4712d8 30.19%,#FF0000 79.69%);
+    background:  #f36259 ;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 22px;
@@ -125,7 +125,7 @@ nav ul li a:hover:after{
 }
 
 .content h4{
-    background: linear-gradient(120deg, #fa0000 15.69%, #0039f5 30.19%,#FF0000 79.69%);
+    background: #eed8c7;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 22px;
@@ -251,7 +251,7 @@ footer{
         letter-spacing: 3px;
         display: inline-block;
         margin-bottom: 10px;
-        background: linear-gradient(120deg, #1c99fe 20.69%, #7644ff 50.19%,#FF0000 79.69%);
+        background: #f36259;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
     }
@@ -263,7 +263,7 @@ footer{
         text-transform: inherit;
     }
     .content h3{
-        background: linear-gradient(120deg, #53a5e9 10.69%, #4712d8 30.19%,#FF0000 79.69%);
+        background: #f36259;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         font-size: 20px;
@@ -273,7 +273,7 @@ footer{
     }
     
     .content h4{
-        background: linear-gradient(120deg, #fa0000 15.69%, #0039f5 30.19%,#FF0000 79.69%);
+        background: #eed8c7;;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         font-size: 16px;
