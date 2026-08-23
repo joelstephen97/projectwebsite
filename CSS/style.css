@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 body{
     font-family: 'Poppins', sans-serif;
-    background-image: url('/poly.svg');
+    background-image: url('../poly.svg');
     background-size: 100%;
     margin: 0px;
 }
@@ -158,7 +158,7 @@ footer{
 @media screen and (max-width: 1050px) {
     body{
         font-family: 'Poppins', sans-serif;
-        background-image: url('/poly.svg');
+        background-image: url('../poly.svg');
         background-size: 100%;
         margin: 5% 3.5% 2%;
     }
